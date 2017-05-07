@@ -5,6 +5,7 @@ class CreatePhotos < ActiveRecord::Migration[5.0]
       t.text :caption
 
       t.timestamps
+
     end
   end
 end
